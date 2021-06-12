@@ -41,7 +41,9 @@
 
 ## advance type
 - Partial - membuat semuanya menjadi opsional
-`Partial<T>`
+```typescript
+Partial<T>
+```
 
 - Required
 `Required<T>`
