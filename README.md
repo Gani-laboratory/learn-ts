@@ -1,5 +1,8 @@
 # Learn Ts
 
+## Collab with [Sensei Arya](https://github.com/aryawpratama)
+## Ringkasan dari [Github Sastra Nababan](https://github.com/SastraNababan/bicara-typescript) versi gw v:
+
 ## Table of Content
 * [kenapa typescript](#kenapa-typescript)
 * [tsconfig](#tsconfig)
