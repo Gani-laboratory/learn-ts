@@ -40,7 +40,7 @@
 | extend               | ✅         | ❌    |
 
 ## advance type
-- Partial 
+- Partial - membuat semuanya menjadi opsional
 `Partial<T>`
 
 - Required
