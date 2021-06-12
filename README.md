@@ -48,10 +48,12 @@
 
 - `Pick<T, K>` - mengambil sebagian tipe data dari interface / type aliases
 
-- `Omit<T, K>` - mengecualikan sebagian tipe data dari interface / type aliases
+- `Omit<T, K>` - menghilangkan sebagian tipe data dari interface / type aliases
 
 - `Record<K, T>` - berfungsi untuk mendefinisikan tipe data object
 
 - `Extract<T, U>` - mencari property yang sama dari kedua parameter (T dan U)
 
 - `Exclude<T, U>` - mencari property yang beda dari kedua parameter (T dan U)
+
+## Note: gunakan keyof jika ingin mengubah interface / type aliases menjadi union
