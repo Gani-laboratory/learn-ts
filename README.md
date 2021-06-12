@@ -1,11 +1,11 @@
 # Learn Ts
 
 ## Table of Content
-* [kenapa typescript](#kenapa%20typescript)
+* [kenapa typescript](#kenapa-typescript)
 * [tsconfig](#tsconfig)
-* [Tipe data di typescript](#Tipe%20data%20di%20typescript)
+* [Tipe data di typescript](#Tipe-data-di-typescript)
 * [interface](#interface)
-* [type aliases](#type%20aliases)
+* [type aliases](#type-aliases)
 
 ## kenapa typescript
 # Berikut hal hal yang membuat gw belajar ts v:
@@ -23,7 +23,7 @@
 - intersection
 - void
 - enum
-- [advance type](#advance%20type)
+- [advance type](#advance-type)
 
 ## interface
 # berisi tipe data yang akan di tetapkan
