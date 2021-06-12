@@ -1,10 +1,6 @@
-type user = {
-    pw: string
-}
-type additional = {
-    email: string
-}
-type merge = user|additional
-const user: merge = {
-    pw: "",
+type test = Record<string, string|number>
+
+const test: test = {
+    pw: "oke",
+    p: 3
 }

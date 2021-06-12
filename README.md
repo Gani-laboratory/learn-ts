@@ -40,28 +40,18 @@
 | extend               | ✅         | ❌    |
 
 ## advance type
-- Partial - membuat semuanya menjadi opsional
-```typescript
-Partial<T>
-```
+- `Partial<T>` - membuat semuanya menjadi opsional
 
-- Required
-`Required<T>`
+- `Required<T>` - membuat semuanya menjadi required
 
-- Readonly
-`Readonly<T>`
+- `Readonly<T>` - membuat semuanya menjadi tidak bisa diubah
 
-- Pick
-`Pick<T, K>`
+- `Pick<T, K>` - mengambil sebagian tipe data dari interface / type aliases
 
-- Omit
-`Omit<T, K>`
+- `Omit<T, K>` - mengecualikan sebagian tipe data dari interface / type aliases
 
-- Record
-`Record<K, T>`
+- `Record<K, T>` - berfungsi untuk mendefinisikan tipe data object
 
-- Extract
-`Extract<T, U>`
+- `Extract<T, U>` - mencari property yang sama dari kedua parameter (T dan U)
 
-- Exclude
-`Exclude<T, U>`
+- `Exclude<T, U>` - mencari property yang beda dari kedua parameter (T dan U)
